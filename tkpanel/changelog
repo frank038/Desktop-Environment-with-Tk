@@ -1,0 +1,7 @@
+V. 08-26-2019 A
+* added Xlib (python3 lib) as dependency;
+* xdotool and xwininfo are used no more;
+* internal changes;
+
+V. 08-23-2019 A
+* the first version;
