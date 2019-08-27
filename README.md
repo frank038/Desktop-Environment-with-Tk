@@ -3,7 +3,7 @@ A DE made with python3/tk. Just for fun.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY. Anyone can use and modified it for any purpose.
 
 Tk-Desktop
-V. 08-22-2019 A
+V. 08-27-2019 A
 
 Required: Python3/Tkinter - Pyinotify - (the included TkinterDnD2).
 
