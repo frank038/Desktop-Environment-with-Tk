@@ -1,4 +1,4 @@
-5e5d8175bcdf42a1ebaf24f611637d5a  tkdesktop.py
+da4f551d09d6e38d4e4359fa3d23ebe3  tkdesktop.py
 
 e91a7e66ccd54309322450a598bf79cf  TkinterDnD2/__init__.py
 3b36c4c266ac51306011ca4e4e54b40e  TkinterDnD2/TkinterDnD.py
