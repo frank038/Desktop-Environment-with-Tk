@@ -4,6 +4,9 @@ e91a7e66ccd54309322450a598bf79cf  TkinterDnD2/__init__.py
 3b36c4c266ac51306011ca4e4e54b40e  TkinterDnD2/TkinterDnD.py
 
 ----------------------------
-e9fbf42052ffe68b9d0dd8c16092947a  tkpanel.py
 
-de5a78189852c5f38e7130749e89b0c5  user_modules/pop_menu.py
+347a9982c1e5bf3f5194e6e5912e2e79  tkpanel.py
+
+e66cfb4ec0e2c12e8d72ca988577f088  user_modules/left_frame.py_disabled
+7e57a0bdc7a387ff18348cd86d180f0c  user_modules/pop_menu.py
+dfba6ae85003c0a79d4cb417a831ea3f  user_modules/right_frame.py
