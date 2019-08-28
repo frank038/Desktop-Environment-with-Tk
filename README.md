@@ -19,4 +19,4 @@ The panel implements almost everything: a menu, a virtual desktops switcher, a b
 
 ![My image](https://github.com/frank038/Desktop-Environment-with-Tk/blob/master/img1.jpg)
 
-![My image](https://github.com/frank038/Desktop-Environment-with-Tk/blob/master/img2.jpg)
+![My image](https://github.com/frank038/Desktop-Environment-with-Tk/blob/master/img2.png)
