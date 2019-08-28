@@ -1,3 +1,8 @@
+V. 08-28-2019 B
+* add custom scripts support;
+* working clock (as custom script);
+* internal changes: menu, etc.;
+
 V. 08-28-2019 A
 * window buttons panel part: creation and removing of windows are detected;
 * virtual desktop switcher: only the windows of the active desktop are shown; 
