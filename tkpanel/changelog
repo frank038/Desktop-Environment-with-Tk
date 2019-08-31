@@ -1,3 +1,7 @@
+V. 08-31-2019 A
+* track the variation in the number of virtual desktops;
+* the category submenu splits if too many entries;
+
 V. 08-28-2019 B
 * add custom scripts support;
 * working clock (as custom script);
