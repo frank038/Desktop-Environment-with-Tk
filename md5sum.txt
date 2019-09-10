@@ -5,8 +5,9 @@ e91a7e66ccd54309322450a598bf79cf  TkinterDnD2/__init__.py
 
 ----------------------------
 
-28aba4f21a178491989dcb7a96cb83a0  tkpanel.py
+56ab342eef342c47abf75cd7f07a7eb6  tkpanel.py
 
+f8d420946184a618cce4f32ca6f60530  user_modules/xsystray.py
 e66cfb4ec0e2c12e8d72ca988577f088  user_modules/left_frame.py_disabled
 7e57a0bdc7a387ff18348cd86d180f0c  user_modules/pop_menu.py
 dfba6ae85003c0a79d4cb417a831ea3f  user_modules/right_frame.py
